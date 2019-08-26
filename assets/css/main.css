@@ -124,8 +124,9 @@ input, select, textarea {
 	}
 	
 	
-	#main{
+	#intro ,#work,#about,#contact {
 		border:1px solid goldenrod;
+		
 	
 	}
 
